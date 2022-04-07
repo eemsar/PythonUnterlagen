@@ -9,3 +9,4 @@ print(c)
 #Ein Tuple kann öfters in ein neuen Tuple abgespeichert werden. Dies geschieht über eine Multiplikation.
 d = a * 3
 print(d)
+

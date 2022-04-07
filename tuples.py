@@ -1,3 +1,6 @@
+#Tuples sind geordnet, nicht veränderbar (indirekt möglich, indem der Tuple erst in eine Liste umgewandelt wird, die Änderung vorgenommen und dann die Liste
+#zurück in ein Tuple umgewandelt wird) & Duplikate sind erlaubt.
+
 #Zugriff durch Index
 a = (1,2,3,4,5,6,7)
 print(a)
